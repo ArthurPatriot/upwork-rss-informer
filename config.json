@@ -1,0 +1,19 @@
+{
+  "bot_token": "telegram_bot_token",
+  "chat_id": "telegram_chat_id",
+  "interval_from": 120,
+  "interval_to": 360,
+  "debug": false,
+  "rss_feeds": [
+    {
+      "name": "hashtag_for_rss_feed",
+      "link": "upwork_rss_link",
+      "started": false
+    },
+    {
+      "name": "hashtag_for_rss_feed_2",
+      "link": "upwork_rss_link_2",
+      "started": false
+    }
+  ]
+}
